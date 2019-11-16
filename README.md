@@ -8,4 +8,4 @@
    sudo npm install -D --save autoprefixer
    sudo npm install -D --save postcss-cli
    ```
-4. `hugo server` (You will need hugo extended from https://github.com/gohugoio/hugo/releases)
+4. `hugo server -D` (You will need hugo extended from https://github.com/gohugoio/hugo/releases)
